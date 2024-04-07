@@ -1,2 +1,1 @@
-# Nurlann
-huseynov
+# bootstrapsite
